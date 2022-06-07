@@ -25,10 +25,10 @@ spec:
         - name: Vless_UUID
           value: ""
         - name: Vless_Path
-          value: "/vless"
+          value: "/-vless"
         - name: Vmess_UUID
           value: ""
         - name: Vmess_Path
-          value: "/vmess"
+          value: "/-vmess"
         - name: Share_Path
           value: "/crtbnmiirtr"
